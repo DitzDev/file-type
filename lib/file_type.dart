@@ -1,4 +1,4 @@
-library file_type;
+library file_type_dart;
 
 import 'dart:async';
 import 'dart:convert';
