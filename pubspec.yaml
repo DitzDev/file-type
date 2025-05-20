@@ -1,6 +1,6 @@
 name: file_type_dart
 description: A Dart library for detecting file types from bytes, streams, or URLs by examining the files binary signature.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/DitzDev/file-type
 homepage: https://github.com/DitzDev/file-type
 issue_tracker: https://github.com/DitzDev/file-type/issues
