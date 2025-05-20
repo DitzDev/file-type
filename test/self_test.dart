@@ -1,4 +1,4 @@
-import 'package:file_type/file_type.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 
 void main() async {
   // Base64 encoded PNG image

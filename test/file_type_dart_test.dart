@@ -1,14 +1,14 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:typed_data';
-import 'package:file_type/file_type.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 import 'package:http/http.dart' as http;
 import 'package:test/test.dart';
 import 'package:mockito/mockito.dart';
 import 'package:mockito/annotations.dart';
 
 @GenerateMocks([http.Client, http.StreamedResponse])
-import 'file_type_test.mocks.dart';
+import 'file_type_dart_test.mocks.dart';
 
 // Define a provider for ByteStream
 //class MockByteStreamProvider extends Mock implements http.ByteStream {}
