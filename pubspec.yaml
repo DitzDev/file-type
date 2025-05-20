@@ -1,5 +1,5 @@
 name: file_type
-description: A sample command-line application.
+description: A Dart library for detecting file types from bytes, streams, or URLs by examining the files binary signature.
 version: 1.0.0
 repository: https://github.com/DitzDev/file-type
 
