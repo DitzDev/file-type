@@ -113,7 +113,7 @@ $ flutter pub add file_type_dart
 
 ```dart
 import 'dart:io';
-import 'package:file_type/file_type_dart.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 
 void main() async {
   // Read file as bytes
@@ -136,7 +136,7 @@ void main() async {
 
 ```dart
 import 'dart:io';
-import 'package:file_type/file_type_dart.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 
 void main() async {
   // Get file as stream
@@ -158,7 +158,7 @@ void main() async {
 ### From URL
 
 ```dart
-import 'package:file_type/file_type_dart.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 
 void main() async {
   // Detect file type from URL
@@ -177,7 +177,7 @@ void main() async {
 
 ```dart
 import 'dart:io';
-import 'package:file_type/file_type_dart.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 
 void main() async {
   final File file = File('example.jpg');
@@ -220,7 +220,7 @@ In web applications, you can detect file types from File objects, Blobs, or Arra
 
 ```dart
 import 'dart:typed_data';
-import 'package:file_type/file_type_dart.dart';
+import 'package:file_type_dart/file_type_dart.dart';
 import 'package:file_picker/file_picker.dart';
 
 void main() async {
