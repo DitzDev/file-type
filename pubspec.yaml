@@ -3,9 +3,7 @@ description: A Dart library for detecting file types from bytes, streams, or URL
 version: 1.0.0
 repository: https://github.com/DitzDev/file-type
 homepage: https://github.com/DitzDev/file-type
-issue_tracker: https://github.com/
-DitzDev/file-type/issues
-
+issue_tracker: https://github.com/DitzDev/file-type/issues
 
 environment:
   sdk: ^3.7.3
